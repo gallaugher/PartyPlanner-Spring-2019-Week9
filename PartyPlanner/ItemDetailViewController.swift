@@ -38,7 +38,4 @@ class ItemDetailViewController: UIViewController {
             navigationController?.popViewController(animated: true)
         }
     }
-    
-    @IBAction func saveButtonPressed(_ sender: UIBarButtonItem) {
-    }
 }

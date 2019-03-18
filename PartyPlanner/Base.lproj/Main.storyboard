@@ -124,7 +124,6 @@
                         </barButtonItem>
                         <barButtonItem key="rightBarButtonItem" systemItem="save" id="Lx1-HO-gKm">
                             <connections>
-                                <action selector="saveButtonPressed:" destination="ENq-H2-pti" id="BKk-mo-OCE"/>
                                 <segue destination="8Xt-EV-8IM" kind="unwind" identifier="UnwindFromSave" unwindAction="unwindFromItemDetailViewControllerWithSegue:" id="YcE-7G-Sa7"/>
                             </connections>
                         </barButtonItem>
